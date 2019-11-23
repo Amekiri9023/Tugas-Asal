@@ -1,2 +1,1 @@
-<left>
-  <p>Secret value is 6877206<p>
+<p>Secret value is 1675902<p>
